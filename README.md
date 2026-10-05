@@ -104,7 +104,7 @@ Enter employee salaries:
 
 ### Output 
 
-![Student Marks Sorting Output](OutPut/App1_Student_Marks_Output.png)
+![Student Marks Sorting Output](OutPut/App1_Employee_Salary_Output.png)
 
 ### Application
 
