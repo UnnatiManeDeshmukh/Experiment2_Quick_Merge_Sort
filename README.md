@@ -72,20 +72,15 @@ Enter marks:
 78 45 92 61 
 ```
 
-### Output
 
-```text
-Marks in ascending order:
-45 61 78 85 92
-```
+### Output 
+
+![Student Marks Sorting Output](Output/App1_Student_Marks_Output.png)
 
 ### Application
 
 Quick Sort can be used in a **Student Management System** to arrange student marks in ascending order for analysis and ranking.
 
-### Output Screenshot
-
-![Student Marks Sorting Output](Output/App1_Student_Marks_Output.png)
 
 ---
 
@@ -107,12 +102,9 @@ Enter employee salaries:
 45000 32000 58000 41000 
 ```
 
-### Output
+### Output 
 
-```text
-Salaries in ascending order:
-32000 41000 45000 50000 58000
-```
+![Student Marks Sorting Output](OutPut/App1_Student_Marks_Output.png)
 
 ### Application
 
@@ -144,13 +136,7 @@ Enter product prices:
 
 ### Output
 
-```text
-Quick Sort - Prices in ascending order:
-75.50 120.00 250.50 300.00 499.99
-
-Merge Sort - Prices in ascending order:
-75.50 120.00 250.50 300.00 499.99
-```
+![Product Price Sorting Output](OutPut/App3_Product_Price_Output.png)
 
 ### Application
 
@@ -158,8 +144,7 @@ Quick Sort and Merge Sort can be used in an **E-Commerce System** to arrange pro
 
 ### Output Screenshot
 
-![Product Price Sorting Output](Output/App3_Product_Price_Output.png)
-
+![Student Marks Sorting Output](OutPut/App1_Student_Marks_Output.png)
 ---
 
 # Algorithm
