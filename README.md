@@ -72,10 +72,9 @@ Enter marks:
 78 45 92 61 
 ```
 
+### Output
 
-### Output 
-
-![Student Marks Sorting Output](Output/App1_Student_Marks_Output.png)
+![Student Marks Sorting Output](OutPut/App1_Student_Marks_Output.png)
 
 ### Application
 
