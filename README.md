@@ -110,10 +110,6 @@ Enter employee salaries:
 
 Merge Sort can be used in an **Employee Management System** to arrange employee salaries for payroll analysis and comparison.
 
-### Output Screenshot
-
-![Employee Salary Sorting Output](OutPut/App2_Employee_Salary_Output.png)
-
 ---
 
 # Application 3: Product Price Sorting
