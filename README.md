@@ -112,7 +112,7 @@ Merge Sort can be used in an **Employee Management System** to arrange employee 
 
 ### Output Screenshot
 
-![Employee Salary Sorting Output](Output/App2_Employee_Salary_Output.png)
+![Employee Salary Sorting Output](OutPut/App2_Employee_Salary_Output.png)
 
 ---
 
