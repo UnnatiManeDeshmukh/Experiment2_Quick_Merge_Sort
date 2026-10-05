@@ -142,11 +142,6 @@ Enter product prices:
 
 Quick Sort and Merge Sort can be used in an **E-Commerce System** to arrange product prices for price comparison and product filtering.
 
-### Output Screenshot
-
-![Student Marks Sorting Output](OutPut/App1_Student_Marks_Output.png)
----
-
 # Algorithm
 
 ## Quick Sort
